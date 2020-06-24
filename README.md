@@ -1,4 +1,4 @@
-# Spotify 2000 most popular songs
+# Spotify's 2000 most popular songs
 
 Analysis of the most popular songs on Spotify according to different parameters, like genre, year etc. 
 
